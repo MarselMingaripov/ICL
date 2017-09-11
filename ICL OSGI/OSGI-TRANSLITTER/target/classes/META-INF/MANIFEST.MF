@@ -1,0 +1,5 @@
+Bundle-SymbolicName: osgi-translitter
+Bundle-Version: 1.0.0.SNAPSHOT
+Import-Package: com.ICL;version="1.0.0.SNAPSHOT",org.osgi.framework,com.ICL.TRANSLITTER
+Export-Package: com.ICL.TRANSLITTER;version="1.0.0.SNAPSHOT"
+Bundle-Activator: com.ICL.TRANSLITTER.TranslitterActivator
