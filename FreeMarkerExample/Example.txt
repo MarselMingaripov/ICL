@@ -1,0 +1,43 @@
+<Books>
+	<Message>List of books</Message>
+    		<Book>
+			<Name>Спектр</Name>
+			<Author>Лукьяненко</Author>
+		</Book>
+		<Book>
+			<Name>Спектр</Name>
+			<Author>Лукьяненко</Author>
+		</Book>
+		<Book>
+			<Name>Хроники Сиалы</Name>
+			<Author>Пехов</Author>
+		</Book>
+		<Book>
+			<Name>Войны мага</Name>
+			<Author>Перумов</Author>
+		</Book>
+		<Book>
+			<Name>Му-Му</Name>
+			<Author>Тургенев</Author>
+		</Book>
+		<Book>
+			<Name>Му-Му</Name>
+			<Author>Тургенев</Author>
+		</Book>
+		<Book>
+			<Name>Завтра война</Name>
+			<Author>Зорич</Author>
+		</Book>
+		<Book>
+			<Name>Войны мага</Name>
+			<Author>Перумов</Author>
+		</Book>
+		<Book>
+			<Name>Войны мага</Name>
+			<Author>Перумов</Author>
+		</Book>
+		<Book>
+			<Name>Му-Му</Name>
+			<Author>Тургенев</Author>
+		</Book>
+</Books>
